@@ -1,0 +1,7 @@
+print("hello world")
+print("This is a new file in my-own_demo directory.")
+print("This file is named new.py.")
+print("This is a demonstration of a Python script.")
+print("End of the script.")
+print("Thank you for running this script!")
+print("Goodbye!")
